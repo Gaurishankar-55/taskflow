@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow - Task Management Web Application
 
 A responsive task manager built with **HTML, CSS, JavaScript and React** (Vite).
@@ -40,3 +41,6 @@ src/
 ## Deploy
 - **Vercel:** import the GitHub repo, framework = Vite, deploy.
 - **GitHub Pages:** run `npm run build` and publish the `dist` folder.
+=======
+# taskflow
+>>>>>>> e7fbee56f9db72fdac033bc9f9ad4a65ea08ca62
